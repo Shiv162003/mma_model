@@ -1,5 +1,5 @@
 
-```markdown
+
 # Multimodal Hate Speech Detection
 
 ## Overview
